@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  Example
 //
-//  Created by cauca on 7/7/16.
+//  Created by Tran Manh Tuan on 7/7/16.
 //  Copyright © 2016 Citigo. All rights reserved.
 //
 
