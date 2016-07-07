@@ -6,7 +6,7 @@ Based on Swift version of Günay Mert Karadoğan. You can check it [here](https:
 
 ## Screenshot
 
-![ParkedTextField.gif](https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif)
+![KVParkedTextField](http://i.imgur.com/N23OrK1.png?1)
 
 ## Author
 
