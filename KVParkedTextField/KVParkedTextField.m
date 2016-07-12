@@ -126,7 +126,7 @@ typedef NS_ENUM(uint8_t, KVTypingState) {
     }
     
     if ([text hasSuffix:self.parkedText]) {
-        return [text substringToIndex:(-self.parkedText.length)];
+        return [text substringToIndex:(text.length - self.parkedText.length)];
     } else {
         return text;
     }
