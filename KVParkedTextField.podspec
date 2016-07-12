@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         	= "KVParkedTextField"
-  s.version      	= "0.0.1"
+  s.version      	= "0.0.2"
   s.summary      	= "A text field with a constant text/placeholder"
   s.homepage     	= "https://github.com/tuantmdev/KVParkedTextField"
   s.screenshots  	= "https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif", "http://i.imgur.com/N23OrK1.png"
