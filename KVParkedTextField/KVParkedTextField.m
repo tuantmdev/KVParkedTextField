@@ -78,7 +78,7 @@ typedef NS_ENUM(uint8_t, KVTypingState) {
         }
         case KVTypingTyped:
         {
-            if ([self.text isEqualToString:self.parkedText]) {
+            if ([self.text isEqualToString:self.parkedText] || self.text.length == 0) {
                 self.typingState = KVTypingStart;
                 self.text = @"";
                 return;
